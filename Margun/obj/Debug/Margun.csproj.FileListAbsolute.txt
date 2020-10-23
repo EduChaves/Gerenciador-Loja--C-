@@ -1,0 +1,17 @@
+c:\users\edurd\documents\visual studio 2015\Projects\Margun\Margun\bin\Debug\Margun.exe.config
+c:\users\edurd\documents\visual studio 2015\Projects\Margun\Margun\bin\Debug\Margun.exe
+c:\users\edurd\documents\visual studio 2015\Projects\Margun\Margun\bin\Debug\Margun.pdb
+c:\users\edurd\documents\visual studio 2015\Projects\Margun\Margun\obj\Debug\Margun.csprojResolveAssemblyReference.cache
+c:\users\edurd\documents\visual studio 2015\Projects\Margun\Margun\obj\Debug\Margun.Properties.Resources.resources
+c:\users\edurd\documents\visual studio 2015\Projects\Margun\Margun\obj\Debug\Margun.csproj.GenerateResource.Cache
+c:\users\edurd\documents\visual studio 2015\Projects\Margun\Margun\obj\Debug\Margun.exe
+c:\users\edurd\documents\visual studio 2015\Projects\Margun\Margun\obj\Debug\Margun.pdb
+C:\Users\edurd\Documents\Visual Studio 2015\Projects\Margun\Margun\obj\Debug\Margun.FormPrincipal.resources
+C:\Users\edurd\Documents\Visual Studio 2015\Projects\Margun\Margun\obj\Debug\Margun.FormEstoque.resources
+C:\Users\edurd\Documents\Visual Studio 2015\Projects\Margun\Margun\obj\Debug\Margun.FormCaixa.resources
+C:\Users\edurd\Documents\Visual Studio 2015\Projects\Margun\Margun\obj\Debug\Margun.FormTroca.resources
+C:\Users\edurd\Documents\Visual Studio 2015\Projects\Margun\Margun\bin\Debug\MySql.Data.dll
+C:\Users\edurd\Documents\Visual Studio 2015\Projects\Margun\Margun\bin\Debug\Margun.Model.dll
+C:\Users\edurd\Documents\Visual Studio 2015\Projects\Margun\Margun\bin\Debug\Margun.Model.pdb
+C:\Users\edurd\Documents\Visual Studio 2015\Projects\Margun\Margun\bin\Debug\Margun.Controller.dll
+C:\Users\edurd\Documents\Visual Studio 2015\Projects\Margun\Margun\bin\Debug\Margun.Controller.pdb

@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Margun", "Margun\Margun.csproj", "{CA18E26B-5384-48B3-858D-7BA5F13B9DFC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Margun.Model", "Margun.Model\Margun.Model.csproj", "{000EDEC8-BD0A-4365-B571-FA9B29899ACE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Margun.Controller", "Margun.Controller\Margun.Controller.csproj", "{A05058A1-C881-4E8A-AD4A-4D6BBEFDBD0E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CA18E26B-5384-48B3-858D-7BA5F13B9DFC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA18E26B-5384-48B3-858D-7BA5F13B9DFC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA18E26B-5384-48B3-858D-7BA5F13B9DFC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA18E26B-5384-48B3-858D-7BA5F13B9DFC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{000EDEC8-BD0A-4365-B571-FA9B29899ACE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{000EDEC8-BD0A-4365-B571-FA9B29899ACE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{000EDEC8-BD0A-4365-B571-FA9B29899ACE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{000EDEC8-BD0A-4365-B571-FA9B29899ACE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A05058A1-C881-4E8A-AD4A-4D6BBEFDBD0E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A05058A1-C881-4E8A-AD4A-4D6BBEFDBD0E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A05058A1-C881-4E8A-AD4A-4D6BBEFDBD0E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A05058A1-C881-4E8A-AD4A-4D6BBEFDBD0E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

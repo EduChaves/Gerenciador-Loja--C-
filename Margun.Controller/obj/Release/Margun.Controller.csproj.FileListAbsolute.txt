@@ -1,0 +1,15 @@
+C:\Users\edurd\Documents\Visual Studio 2015\Projects\Margun\Margun.Controller\bin\Release\Margun.Controller.dll
+C:\Users\edurd\Documents\Visual Studio 2015\Projects\Margun\Margun.Controller\bin\Release\Margun.Controller.pdb
+C:\Users\edurd\Documents\Visual Studio 2015\Projects\Margun\Margun.Controller\bin\Release\ClosedXML.dll
+C:\Users\edurd\Documents\Visual Studio 2015\Projects\Margun\Margun.Controller\bin\Release\DocumentFormat.OpenXml.dll
+C:\Users\edurd\Documents\Visual Studio 2015\Projects\Margun\Margun.Controller\bin\Release\ExcelNumberFormat.dll
+C:\Users\edurd\Documents\Visual Studio 2015\Projects\Margun\Margun.Controller\bin\Release\Margun.Model.dll
+C:\Users\edurd\Documents\Visual Studio 2015\Projects\Margun\Margun.Controller\bin\Release\MySql.Data.dll
+C:\Users\edurd\Documents\Visual Studio 2015\Projects\Margun\Margun.Controller\bin\Release\Margun.Model.pdb
+C:\Users\edurd\Documents\Visual Studio 2015\Projects\Margun\Margun.Controller\bin\Release\ClosedXML.pdb
+C:\Users\edurd\Documents\Visual Studio 2015\Projects\Margun\Margun.Controller\bin\Release\ClosedXML.xml
+C:\Users\edurd\Documents\Visual Studio 2015\Projects\Margun\Margun.Controller\bin\Release\DocumentFormat.OpenXml.xml
+C:\Users\edurd\Documents\Visual Studio 2015\Projects\Margun\Margun.Controller\bin\Release\ExcelNumberFormat.xml
+C:\Users\edurd\Documents\Visual Studio 2015\Projects\Margun\Margun.Controller\obj\Release\Margun.Controller.csprojResolveAssemblyReference.cache
+C:\Users\edurd\Documents\Visual Studio 2015\Projects\Margun\Margun.Controller\obj\Release\Margun.Controller.dll
+C:\Users\edurd\Documents\Visual Studio 2015\Projects\Margun\Margun.Controller\obj\Release\Margun.Controller.pdb
