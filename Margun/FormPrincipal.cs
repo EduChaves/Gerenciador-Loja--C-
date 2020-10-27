@@ -10,7 +10,7 @@ namespace Margun
     {
         int posicaoX, posicaoY;
         int auxHeigth, auxWidth;
-
+        
         EstoqueController ctrll = new EstoqueController();
 
         /*[DllImport("Gdi32.dll", EntryPoint = "CreateRoundRectRgn")]
@@ -22,12 +22,12 @@ namespace Margun
         [DllImport("user32.DLL", EntryPoint = "SendMessage")]
         private extern static void SendMessage(System.IntPtr hWnd, int wMsg, int wParam, int lParam);
 
-
         public FormPrincipal()
         {
             InitializeComponent();            
         }
         #region Funcionalidades do Formulario
+        
         private void flowLayoutPanel1_Click(object sender, EventArgs e)
         {
             Application.Exit();
@@ -62,14 +62,24 @@ namespace Margun
 
         private void btnEstoque_Click(object sender, EventArgs e)
         {
-            FormEstoque frm = new FormEstoque();
-            frm.TopLevel = false;
-            panelForms.Controls.Add(frm);
-            frm.FormBorderStyle = FormBorderStyle.None;
-            frm.Show();
+            panelForms.Controls.Clear();
+
+            Button btn = sender as Button;
+            FormEstoque frm1= new FormEstoque();
+
+            panelForms.Controls.Add(null);
+                
+            frm1.TopLevel = false;
+            panelForms.Controls.Add(frm1);
+            frm1.FormBorderStyle = FormBorderStyle.None;
+            frm1.Show();                
+                
         }
         private void btnCaixa_Click(object sender, EventArgs e)
         {
+            panelForms.Controls.Clear();
+
+            panelForms.Controls.Add(null);
             FormCaixa frm = new FormCaixa();
             frm.TopLevel = false;
             panelForms.Controls.Add(frm);
@@ -78,6 +88,9 @@ namespace Margun
         }
         private void btnTroca_Click(object sender, EventArgs e)
         {
+            panelForms.Controls.Clear();
+
+            panelForms.Controls.Add(null);
             FormTroca frm = new FormTroca();
             frm.TopLevel = false;
             panelForms.Controls.Add(frm);

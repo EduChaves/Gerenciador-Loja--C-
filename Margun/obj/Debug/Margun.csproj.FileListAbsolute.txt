@@ -15,3 +15,22 @@ C:\Users\edurd\Documents\Visual Studio 2015\Projects\Margun\Margun\bin\Debug\Mar
 C:\Users\edurd\Documents\Visual Studio 2015\Projects\Margun\Margun\bin\Debug\Margun.Model.pdb
 C:\Users\edurd\Documents\Visual Studio 2015\Projects\Margun\Margun\bin\Debug\Margun.Controller.dll
 C:\Users\edurd\Documents\Visual Studio 2015\Projects\Margun\Margun\bin\Debug\Margun.Controller.pdb
+C:\Users\edurd\Documents\Git\Gerenciador-Loja--C-\Margun\bin\Debug\Margun.exe.config
+C:\Users\edurd\Documents\Git\Gerenciador-Loja--C-\Margun\bin\Debug\Margun.exe
+C:\Users\edurd\Documents\Git\Gerenciador-Loja--C-\Margun\bin\Debug\Margun.pdb
+C:\Users\edurd\Documents\Git\Gerenciador-Loja--C-\Margun\bin\Debug\Margun.Controller.dll
+C:\Users\edurd\Documents\Git\Gerenciador-Loja--C-\Margun\bin\Debug\Margun.Model.dll
+C:\Users\edurd\Documents\Git\Gerenciador-Loja--C-\Margun\bin\Debug\MySql.Data.dll
+C:\Users\edurd\Documents\Git\Gerenciador-Loja--C-\Margun\bin\Debug\Margun.Controller.pdb
+C:\Users\edurd\Documents\Git\Gerenciador-Loja--C-\Margun\bin\Debug\Margun.Model.pdb
+C:\Users\edurd\Documents\Git\Gerenciador-Loja--C-\Margun\obj\Debug\Margun.csprojAssemblyReference.cache
+C:\Users\edurd\Documents\Git\Gerenciador-Loja--C-\Margun\obj\Debug\Margun.FormCaixa.resources
+C:\Users\edurd\Documents\Git\Gerenciador-Loja--C-\Margun\obj\Debug\Margun.FormPrincipal.resources
+C:\Users\edurd\Documents\Git\Gerenciador-Loja--C-\Margun\obj\Debug\Margun.FormEstoque.resources
+C:\Users\edurd\Documents\Git\Gerenciador-Loja--C-\Margun\obj\Debug\Margun.FormTroca.resources
+C:\Users\edurd\Documents\Git\Gerenciador-Loja--C-\Margun\obj\Debug\Margun.Properties.Resources.resources
+C:\Users\edurd\Documents\Git\Gerenciador-Loja--C-\Margun\obj\Debug\Margun.csproj.GenerateResource.cache
+C:\Users\edurd\Documents\Git\Gerenciador-Loja--C-\Margun\obj\Debug\Margun.csproj.CoreCompileInputs.cache
+C:\Users\edurd\Documents\Git\Gerenciador-Loja--C-\Margun\obj\Debug\Margun.csproj.CopyComplete
+C:\Users\edurd\Documents\Git\Gerenciador-Loja--C-\Margun\obj\Debug\Margun.exe
+C:\Users\edurd\Documents\Git\Gerenciador-Loja--C-\Margun\obj\Debug\Margun.pdb

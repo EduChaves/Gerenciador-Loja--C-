@@ -12,3 +12,19 @@ C:\Users\edurd\Documents\Visual Studio 2015\Projects\Margun\Margun.Model\bin\Deb
 C:\Users\edurd\Documents\Visual Studio 2015\Projects\Margun\Margun.Model\bin\Debug\DocumentFormat.OpenXml.xml
 C:\Users\edurd\Documents\Visual Studio 2015\Projects\Margun\Margun.Model\bin\Debug\ExcelNumberFormat.xml
 C:\Users\edurd\Documents\Visual Studio 2015\Projects\Margun\Margun.Model\obj\Debug\Margun.Model.csproj.ResolveComReference.cache
+C:\Users\edurd\Documents\Git\Gerenciador-Loja--C-\Margun.Model\bin\Debug\Margun.Model.dll
+C:\Users\edurd\Documents\Git\Gerenciador-Loja--C-\Margun.Model\bin\Debug\Margun.Model.pdb
+C:\Users\edurd\Documents\Git\Gerenciador-Loja--C-\Margun.Model\bin\Debug\ClosedXML.dll
+C:\Users\edurd\Documents\Git\Gerenciador-Loja--C-\Margun.Model\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\edurd\Documents\Git\Gerenciador-Loja--C-\Margun.Model\bin\Debug\ExcelNumberFormat.dll
+C:\Users\edurd\Documents\Git\Gerenciador-Loja--C-\Margun.Model\bin\Debug\MySql.Data.dll
+C:\Users\edurd\Documents\Git\Gerenciador-Loja--C-\Margun.Model\bin\Debug\ClosedXML.pdb
+C:\Users\edurd\Documents\Git\Gerenciador-Loja--C-\Margun.Model\bin\Debug\ClosedXML.xml
+C:\Users\edurd\Documents\Git\Gerenciador-Loja--C-\Margun.Model\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\edurd\Documents\Git\Gerenciador-Loja--C-\Margun.Model\bin\Debug\ExcelNumberFormat.xml
+C:\Users\edurd\Documents\Git\Gerenciador-Loja--C-\Margun.Model\obj\Debug\Margun.Model.csprojAssemblyReference.cache
+C:\Users\edurd\Documents\Git\Gerenciador-Loja--C-\Margun.Model\obj\Debug\Margun.Model.csproj.ResolveComReference.cache
+C:\Users\edurd\Documents\Git\Gerenciador-Loja--C-\Margun.Model\obj\Debug\Margun.Model.csproj.CoreCompileInputs.cache
+C:\Users\edurd\Documents\Git\Gerenciador-Loja--C-\Margun.Model\obj\Debug\Margun.Model.csproj.CopyComplete
+C:\Users\edurd\Documents\Git\Gerenciador-Loja--C-\Margun.Model\obj\Debug\Margun.Model.dll
+C:\Users\edurd\Documents\Git\Gerenciador-Loja--C-\Margun.Model\obj\Debug\Margun.Model.pdb

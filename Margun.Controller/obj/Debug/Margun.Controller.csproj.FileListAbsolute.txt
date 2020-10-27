@@ -13,3 +13,20 @@ C:\Users\edurd\Documents\Visual Studio 2015\Projects\Margun\Margun.Controller\bi
 C:\Users\edurd\Documents\Visual Studio 2015\Projects\Margun\Margun.Controller\bin\Debug\ClosedXML.xml
 C:\Users\edurd\Documents\Visual Studio 2015\Projects\Margun\Margun.Controller\bin\Debug\DocumentFormat.OpenXml.xml
 C:\Users\edurd\Documents\Visual Studio 2015\Projects\Margun\Margun.Controller\bin\Debug\ExcelNumberFormat.xml
+C:\Users\edurd\Documents\Git\Gerenciador-Loja--C-\Margun.Controller\bin\Debug\Margun.Controller.dll
+C:\Users\edurd\Documents\Git\Gerenciador-Loja--C-\Margun.Controller\bin\Debug\Margun.Controller.pdb
+C:\Users\edurd\Documents\Git\Gerenciador-Loja--C-\Margun.Controller\bin\Debug\ClosedXML.dll
+C:\Users\edurd\Documents\Git\Gerenciador-Loja--C-\Margun.Controller\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\edurd\Documents\Git\Gerenciador-Loja--C-\Margun.Controller\bin\Debug\ExcelNumberFormat.dll
+C:\Users\edurd\Documents\Git\Gerenciador-Loja--C-\Margun.Controller\bin\Debug\Margun.Model.dll
+C:\Users\edurd\Documents\Git\Gerenciador-Loja--C-\Margun.Controller\bin\Debug\MySql.Data.dll
+C:\Users\edurd\Documents\Git\Gerenciador-Loja--C-\Margun.Controller\bin\Debug\Margun.Model.pdb
+C:\Users\edurd\Documents\Git\Gerenciador-Loja--C-\Margun.Controller\bin\Debug\ClosedXML.pdb
+C:\Users\edurd\Documents\Git\Gerenciador-Loja--C-\Margun.Controller\bin\Debug\ClosedXML.xml
+C:\Users\edurd\Documents\Git\Gerenciador-Loja--C-\Margun.Controller\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\edurd\Documents\Git\Gerenciador-Loja--C-\Margun.Controller\bin\Debug\ExcelNumberFormat.xml
+C:\Users\edurd\Documents\Git\Gerenciador-Loja--C-\Margun.Controller\obj\Debug\Margun.Controller.csprojAssemblyReference.cache
+C:\Users\edurd\Documents\Git\Gerenciador-Loja--C-\Margun.Controller\obj\Debug\Margun.Controller.csproj.CoreCompileInputs.cache
+C:\Users\edurd\Documents\Git\Gerenciador-Loja--C-\Margun.Controller\obj\Debug\Margun.Controller.csproj.CopyComplete
+C:\Users\edurd\Documents\Git\Gerenciador-Loja--C-\Margun.Controller\obj\Debug\Margun.Controller.dll
+C:\Users\edurd\Documents\Git\Gerenciador-Loja--C-\Margun.Controller\obj\Debug\Margun.Controller.pdb
